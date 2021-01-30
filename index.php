@@ -14,5 +14,8 @@
         <input type="button" value="Buscar" onclick="mostrar()">
     </form>
     <div id="resultado"></div>
+    <footer>
+        hola
+    </footer>
 </body>
 </html>
